@@ -32,6 +32,13 @@
     text-align: justify;
 }
 
+/* Project Section */
+
+#projects {
+    background-color: #eee;
+    min-height: 1000px;
+}
+
 /* For mobile phones: */
 [class*="col-"] {
     width: 100%;
